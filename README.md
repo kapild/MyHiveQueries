@@ -1,0 +1,4 @@
+MyHiveQueries
+=============
+
+My Hive queries
